@@ -43,4 +43,5 @@ Data Enthusiasts
 
 It enables data-driven decisions by revealing key trends, opportunities, and performance gaps in the sales pipeline.
 
-Include screenshots or link them from your repo (you already have visuals, just add: ![Dashboard Preview](./path-to-image.png))
+📸 Preview
+Include screenshots or link them from your repo (you already have visuals, just add: "https://github.com/Anshcodeify45/Sales_Analysis.git")
